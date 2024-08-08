@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
 public class numberOfSpaces {
+
+	// given a string s. write a program to print the  number of spaces in the string. spaces between the words.
+	// input = hopw are you   outpt= 2
 	
 	static void CountSpaces(String s)
 	{
