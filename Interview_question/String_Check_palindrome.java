@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
 public class String_Check_palindrome {
+	// given a string s. write a program to check if the string is palindrome or not
+	// input = racecar,tenet,mom  output = palindrome
+	
 	
 	static String checkPalindrome(String s,String t)
 	{
