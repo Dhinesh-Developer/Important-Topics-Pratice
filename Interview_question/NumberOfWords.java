@@ -1,7 +1,8 @@
 import java.util.Scanner;
 
 public class NumberOfWords {
-	
+	// given a string s. write a program to print the  number of words in the string.
+	// input= how are you   output = 3
 	static void CountWords(String s)
 	{
 		int count = 1;
